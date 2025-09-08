@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="32dp"
+    android:background="#263238"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/titleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="48dp"
+        android:text="Select Difficulty"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/easyBtn"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Easy"
+        android:textSize="20sp"
+        android:backgroundTint="#4CAF50"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/mediumBtn"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Medium"
+        android:textSize="20sp"
+        android:backgroundTint="#FFC107"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/hardBtn"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Hard"
+        android:textSize="20sp"
+        android:backgroundTint="#F44336"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>
