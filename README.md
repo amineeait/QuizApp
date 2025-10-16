@@ -113,9 +113,9 @@ app/
 For questions, suggestions, or bug reports, feel free to reach out:
 
 Author: Mohamed Amine Ait El Mahjoub
-Email: your.email@example.com
+Email: mohamedamineaitelmahjoub@gmail.com
 
-GitHub: github.com/yourusername
+GitHub: github.com/amineeait
 
 🤝 Contributing
 
